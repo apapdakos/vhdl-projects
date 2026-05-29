@@ -1,0 +1,3 @@
+work	"ADDER_2BIT.vhd"
+work	"FULL_ADDER.vhd"
+work	"halfadder.vhd"

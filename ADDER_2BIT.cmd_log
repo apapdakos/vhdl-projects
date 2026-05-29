@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/ise/Desktop/lab5/ADDER_2BIT.xst" -ofn "/home/ise/Desktop/lab5/ADDER_2BIT.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc myucf.ucf -p xc3s100e-cp132-5 ADDER_2BIT.ngc ADDER_2BIT.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o ADDER_2BIT_map.ncd ADDER_2BIT.ngd ADDER_2BIT.pcf 
+par -w -intstyle ise -ol high -t 1 ADDER_2BIT_map.ncd ADDER_2BIT.ncd ADDER_2BIT.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml ADDER_2BIT.twx ADDER_2BIT.ncd -o ADDER_2BIT.twr ADDER_2BIT.pcf -ucf myucf.ucf 
+bitgen -intstyle ise -f ADDER_2BIT.ut ADDER_2BIT.ncd 

@@ -1,0 +1,12 @@
+# Vivado/Quartus/ModelSim temporary files
+*.log
+*.jou
+*.pb
+*.wdb
+*.o
+*.cf
+*.sim
+*.exe
+work/
+xsim.dir/
+.Xil/

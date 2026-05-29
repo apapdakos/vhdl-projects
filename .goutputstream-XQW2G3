@@ -1,0 +1,8 @@
+NET "A(0)" 				LOC = "P11";
+NET "A(1)" 				LOC = "L3";
+NET "B(0)" 				LOC = "K3";
+NET "B(1)"			   LOC = "B4";
+NET "Cin"  				LOC = "G3";
+NET "Result(0)" 		LOC = "M5";
+NET "Result(1)" 		LOC = "M11";
+NET "Cout" 				LOC = "P7";

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/ise/Desktop/lab5/adder2bit_testbench_isim_beh.exe" -prj "/home/ise/Desktop/lab5/adder2bit_testbench_beh.prj" "work.adder2bit_testbench" 

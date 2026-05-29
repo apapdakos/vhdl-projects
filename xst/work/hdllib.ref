@@ -1,0 +1,10 @@
+AR lab5module behavioral /home/ise/Desktop/lab5/lab5module.vhd sub00/vhpl03 1764931080
+EN halfadder NULL /home/ise/Desktop/lab5/halfadder.vhd sub00/vhpl04 1764942167
+EN fulladder NULL /home/ise/Desktop/lab5/FullAdder.vhd sub00/vhpl00 1764931077
+EN full_adder NULL /home/ise/Desktop/lab5/FULL_ADDER.vhd sub00/vhpl06 1764942169
+EN adder_2bit NULL /home/ise/Desktop/lab5/ADDER_2BIT.vhd sub00/vhpl08 1764942171
+AR full_adder behavioral /home/ise/Desktop/lab5/FULL_ADDER.vhd sub00/vhpl07 1764942170
+AR adder_2bit structural /home/ise/Desktop/lab5/ADDER_2BIT.vhd sub00/vhpl09 1764942172
+AR fulladder behavioral /home/ise/Desktop/lab5/FullAdder.vhd sub00/vhpl01 1764931078
+AR halfadder behavioral /home/ise/Desktop/lab5/halfadder.vhd sub00/vhpl05 1764942168
+EN lab5module NULL /home/ise/Desktop/lab5/lab5module.vhd sub00/vhpl02 1764931079

@@ -1,0 +1,3 @@
+vhdl isim_temp "FullAdder.vhd"
+vhdl isim_temp "lab5module.vhd"
+vhdl isim_temp "testbench.vhd"

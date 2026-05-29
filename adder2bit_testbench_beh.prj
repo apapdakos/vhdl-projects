@@ -1,0 +1,4 @@
+vhdl work "halfadder.vhd"
+vhdl work "FULL_ADDER.vhd"
+vhdl work "ADDER_2BIT.vhd"
+vhdl work "adder2bit_testbench.vhd"

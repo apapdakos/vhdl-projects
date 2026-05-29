@@ -1,0 +1,29 @@
+V3 18
+FL /home/ise/Desktop/lab5/ADDER_2BIT.vhd 2025/12/05.13:34:26 P.20131013
+EN work/ADDER_2BIT 1764942171 FL /home/ise/Desktop/lab5/ADDER_2BIT.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ADDER_2BIT/Structural 1764942172 \
+      FL /home/ise/Desktop/lab5/ADDER_2BIT.vhd EN work/ADDER_2BIT 1764942171 \
+      CP FULL_ADDER
+FL /home/ise/Desktop/lab5/FullAdder.vhd 2025/12/04.18:22:33 P.20131013
+EN work/FullAdder 1764931077 FL /home/ise/Desktop/lab5/FullAdder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FullAdder/Behavioral 1764931078 \
+      FL /home/ise/Desktop/lab5/FullAdder.vhd EN work/FullAdder 1764931077
+FL /home/ise/Desktop/lab5/FULL_ADDER.vhd 2025/12/05.13:19:59 P.20131013
+EN work/FULL_ADDER 1764942169 FL /home/ise/Desktop/lab5/FULL_ADDER.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FULL_ADDER/Behavioral 1764942170 \
+      FL /home/ise/Desktop/lab5/FULL_ADDER.vhd EN work/FULL_ADDER 1764942169 \
+      CP halfadder
+FL /home/ise/Desktop/lab5/halfadder.vhd 2025/12/05.13:01:04 P.20131013
+EN work/halfadder 1764942167 FL /home/ise/Desktop/lab5/halfadder.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/halfadder/Behavioral 1764942168 \
+      FL /home/ise/Desktop/lab5/halfadder.vhd EN work/halfadder 1764942167
+FL /home/ise/Desktop/lab5/lab5module.vhd 2025/12/04.18:41:34 P.20131013
+EN work/lab5module 1764931079 FL /home/ise/Desktop/lab5/lab5module.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/lab5module/Behavioral 1764931080 \
+      FL /home/ise/Desktop/lab5/lab5module.vhd EN work/lab5module 1764931079 \
+      CP FullAdder
